@@ -1,2 +1,1 @@
-# registration-service
-Example Microservice
+# Registration Service
